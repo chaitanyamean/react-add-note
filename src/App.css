@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.note-cls {
+  margin-top: 10px;
+}
+
+.submit-cls {
+  background-color: transparent;
+  border: none;
+}
+
+.edit-cls {
+  padding-left: 2px;
+}
